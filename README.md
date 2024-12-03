@@ -14,4 +14,5 @@ Package Manager: [Vim-plug](https://github.com/junegunn/vim-plug)
 
 File Explorer: [Drex.nvim](https://github.com/TheBlob42/drex.nvim) 
 
-LayTex Support: [Vimtex](https://github.com/lervag/vimtex)
+LayTex Support: [Vimtex](https://github.com/lervag/vimtex) 
+If you would like to customize LayTex find documation here: [Readme](https://github.com/lervag/vimtex?tab=readme-ov-file#configuration)
