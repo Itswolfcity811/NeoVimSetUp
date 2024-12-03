@@ -13,3 +13,5 @@ After go to the file "insert.txt" and copy and paste the entire contents into a 
 Package Manager: [Vim-plug](https://github.com/junegunn/vim-plug) 
 
 File Explorer: [Drex.nvim](https://github.com/TheBlob42/drex.nvim) 
+
+LayTex Support: [Vimtex](https://github.com/lervag/vimtex)
