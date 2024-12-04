@@ -1,6 +1,8 @@
 # NeoVimSetUp
 This is a NeoVim Configuration I made for a client on Fiverr.
 
+DISCAMER: NEOVIM is needed prior to using my code!
+
 To install on Linux/Unix/Mac you need to run the Install.sh script
 
 After you have it installed you need to open NeoVim and run the following commands:
