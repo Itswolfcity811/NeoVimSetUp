@@ -11,6 +11,8 @@ After you have it installed you need to open NeoVim and run the following comman
 
 :PlugClean to remove plugins no longer in the list (Only run this if you had Vim-plug installed previously)
 
+
+
 Package Manager: [Vim-plug](https://github.com/junegunn/vim-plug) 
 
 File Explorer: [Drex.nvim](https://github.com/TheBlob42/drex.nvim) 
