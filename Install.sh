@@ -20,5 +20,9 @@ Plug 'kyazdani42/nvim-web-devicons' " optional
 Plug 'lervag/vimtex'
 Plug 'lervag/vimtex', { 'tag': 'v2.15' }
 
+Plug 'puremourning/vimspector'
+Plug 'mfussenegger/nvim-jdtls'
+Plug 'elementdavv/vimspector-jdtls'
+
 call plug#end()
 EOF
