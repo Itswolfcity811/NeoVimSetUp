@@ -19,5 +19,6 @@ Plug 'lervag/vimtex', { 'tag': 'v2.15' }
 
 call plug#end()
 EOF
+)
 
 echo $VAR >> init.vim
