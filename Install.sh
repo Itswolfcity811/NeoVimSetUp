@@ -9,6 +9,9 @@ cd ~/.config/nvim/
 
 touch init.vim
 
+pip3 install pynvim
+pip3 install --upgrade pynvim
+
 VAR=$(cat <<EOF
 call plug#begin()
 
