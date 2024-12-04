@@ -24,3 +24,4 @@ If you would like to customize LayTex find documation here: [Readme](https://git
 
 Python: [Pynim](https://github.com/neovim/pynvim)
 
+Java: [vimspector-jdtls](https://github.com/elementdavv/vimspector-jdtls)
