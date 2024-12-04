@@ -20,5 +20,7 @@ Plug 'kyazdani42/nvim-web-devicons' " optional
 Plug 'lervag/vimtex'
 Plug 'lervag/vimtex', { 'tag': 'v2.15' }
 
+Plug 'https://github.com/nvim-java/nvim-java.git'
+
 call plug#end()
 EOF
