@@ -32,5 +32,7 @@ function! UpdateRemotePlugins(...)
 
 Plug 'gelguy/wilder.nvim', { 'do': function('UpdateRemotePlugins') }
 
+Plug 'nvim-treesitter/nvim-treesitter'
+
 call plug#end()
 EOF
