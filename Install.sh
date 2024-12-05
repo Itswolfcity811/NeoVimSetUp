@@ -24,5 +24,13 @@ Plug 'puremourning/vimspector'
 Plug 'mfussenegger/nvim-jdtls'
 Plug 'elementdavv/vimspector-jdtls'
 
+function! UpdateRemotePlugins(...)
+    " Needed to refresh runtime files
+    let &rtp=&rtp
+    UpdateRemotePlugins
+  endfunction
+
+Plug 'gelguy/wilder.nvim', { 'do': function('UpdateRemotePlugins') }
+
 call plug#end()
 EOF
